@@ -11,6 +11,7 @@ This case is modeled for the smaller choc-spaced PCB from Typeractive. It includ
 - Insets for screws on the bottom allow using the case without rubber feet if desired
 - **Two cover options**: Solid or cutout for the display
 - **Magnetic tenting legs** for ergonomic positioning
+- **STL and Shapr3D files provided** for easy customization
 
 ## What You Need
 
@@ -60,6 +61,15 @@ You’ll need the following hardware:
 
 ---
 
+## Firmware
+
+The firmware configuration for this case is available in my repository:  
+**[Corne ZMK Firmware Configuration](https://github.com/jakmaz/corne-zmk)**.
+
+This includes the keymap and settings optimized for a wireless Corne keyboard build using ZMK.
+
+---
+
 ## Assembly
 
 Here’s a general guide for assembly:
@@ -88,6 +98,21 @@ Here’s a general guide for assembly:
 
 6. **Add Rubber Feet:**
    - Glue some rubber feet to the bottom of the case for stability.
+
+---
+
+## STL and Shapr3D Files
+
+To make this case customizable, I’ve included both the **STL files** for 3D printing and the **Shapr3D files** if you want to edit the parts yourself.
+
+---
+
+## Credits
+
+This project wouldn’t be possible without the inspiration and ideas from these sources:
+
+- **[Makerworld Case](https://makerworld.com/en/models/518698#profileId-435003):** This was the main source for the case design and documentation.
+- **[Forager Tenting Feet](https://github.com/carrefinho/forager/tree/main?tab=readme-ov-file):** The tenting leg design was inspired by this project.
 
 ---
 
