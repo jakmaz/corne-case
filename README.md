@@ -40,8 +40,9 @@ To make this case customizable, I’ve included both the **STL files** for 3D pr
 
 This project wouldn’t be possible without the inspiration and ideas from these sources:
 
-- **[Makerworld Case](https://makerworld.com/en/models/518698#profileId-435003):** This was the main source for the case design and documentation.
-- **[Forager Tenting Feet](https://github.com/carrefinho/forager/tree/main?tab=readme-ov-file):** The tenting leg design was inspired by this project.
+- **[Felix's Corne Case](https://makerworld.com/en/models/518698#profileId-435003):** This was the main source for the case design and documentation.
+- **[Forager Keyboard](https://github.com/carrefinho/forager/tree/main?tab=readme-ov-file):** The tenting leg design was inspired by this project.
+- **[Typeractive](https://typeractive.xyz/):** Covers were exported from the typeractive 3D builder.
 
 ---
 
