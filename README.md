@@ -1,6 +1,6 @@
 # Wireless 6 Column Choc Corne Case
 
-This case is modeled for the smaller choc-spaced PCB from Typeractive. It includes both solid and cutout covers for the display, providing flexibility based on your preferences. Additionally, I've included **tenting legs attached with magnets** for added comfort and flexibility.
+This case is modeled for the low-profile choc-spaced PCB from Typeractive. It includes both solid and cutout covers for the display, providing flexibility based on your preferences. Additionally, I've included **tenting legs attached with magnets** for added comfort and flexibility.
 
 ## Features
 
@@ -12,6 +12,14 @@ This case is modeled for the smaller choc-spaced PCB from Typeractive. It includ
 - **Two cover options**: Solid or cutout for the display
 - **Magnetic tenting legs** for ergonomic positioning
 - **STL and Shapr3D files provided** for easy customization
+
+---
+
+## Future Plans
+
+- Create a **traveling case** for portability and protection.
+- Design a **case with a bigger battery** for extended usage.
+- Develop an **aluminum CNC file** for a premium, durable build.
 
 ---
 
