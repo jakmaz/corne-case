@@ -8,10 +8,10 @@ This guide provides step-by-step instructions to assemble your Corne keyboard ca
 
 ### Printed Parts
 
-- **Plates:** [Download here](../plates)
-- **Cases:** [Download here](../cases)
-- **Covers:** [Solid](../covers/solid) | [Cutout](../covers/cutout)
-- **Tenting Legs:** [Download here](../tenting-legs)
+- **Plates:** [Download here](../case)
+- **Cases:** [Download here](../case)
+- **Covers:** [Solid](../case/cover-solid.stl) | [Cutout](../case/cover-cutout.stl)
+- **Tenting Legs:** [Download here](../case/tenting-leg.stl)
 
 **Printing Tips:**
 
@@ -26,11 +26,13 @@ This guide provides step-by-step instructions to assemble your Corne keyboard ca
 
 #### General
 
-- **[Typeractive choc-spaced 6 Column Corne PCB](https://typeractive.xyz)**
-- **42 Kailh Choc switches**
-- **42 Keycaps**
-- **2 [Nice!Nanos](https://nicekeyboards.com/nice-nano)** (wireless microcontrollers)
-- **OPTIONAL: 2 [Nice!Views](https://nicekeyboards.com/nice-view)** (displays for customization)
+All the parts below can be easily bought on typeractive store
+
+- **Typeractive choc-spaced 6 Column Corne PCB:** [Buy](https://typeractive.xyz/products/corne-partially-assembled-pcb)
+- **42 Kailh Choc switches:** [Buy](https://typeractive.xyz/products/choc-switches)
+- **42 Kailh Choc keycaps:** [Buy](https://typeractive.xyz/products/mbk-keycaps)
+- **2 Nice!Nanos wireless microcontrollers:** [Buy](https://typeractive.xyz/products/nice-nano)
+- **OPTIONAL: 2 Nice!Views displays:** [Buy](https://nicekeyboards.com/nice-view)
 
 #### Screws and Standoffs
 
@@ -52,7 +54,7 @@ This guide provides step-by-step instructions to assemble your Corne keyboard ca
 
 1. **Assemble/Solder the PCB**
 
-   - Solder all components to your PCB according to its documentation.
+   - Solder all components to your PCB according to the [documentation](https://docs.typeractive.xyz/build-guides/corne-wireless).
 
 2. **Insert Switches**
 
